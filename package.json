@@ -159,7 +159,7 @@
     "eslint": "^6.1.0",
     "eslint-config-google": "^0.9.1",
     "eslint-plugin-vue": "^5.2.3",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "jsdoc-to-markdown": "^4.0.1",
     "leia-parser": "^0.3.4",
     "mocha": "^4.1.0",
